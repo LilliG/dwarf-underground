@@ -2,6 +2,6 @@ App
     Header
     Main
         Article
-        Sidebar
         Ads
+        Other Articles
     Footer
