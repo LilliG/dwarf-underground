@@ -20,8 +20,8 @@ class ArticleFooter extends Component {
             <span className="article-link-text">Share Post</span>
           </a>
         </div>
-        <form id="comment-box" className="hidden">
-            <input type="text" name="comment" placeholder="Add a comment and press enter to submit" />
+        <form>
+            <textarea className="hidden" id="comment-box" type="text" name="comment" placeholder="Add a comment and press enter to submit"></textarea>
         </form>
         </div>
         )
