@@ -30,3 +30,11 @@
 .article-link-text {
   padding-left: 5px;
 }
+
+#comment-box {
+  padding: .6em 0;
+}
+
+.hidden {
+  display: none;
+}
